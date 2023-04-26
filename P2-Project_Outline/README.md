@@ -15,21 +15,42 @@ Include overview here
 This app is meant to inform users about what their cat is prone to, healthwise.
 The idea came from the fact that one of us has cats, and they would've appreciated having a virtual record of their cats' health information.
 Users can create individual profiles for their own cats, and it would contain information about their name, age, breed, description, and gender.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 24a37cef234b4daf130e68aadba6bd5f0d33b86e
 ### Features
 Include Features here
 
 User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
 Search: Users will be able to search for health-related info about different breeds of cats, utilizing the search function by illnesses.
+<<<<<<< HEAD
 Create A Profile: Users will be able to create new description profiles when logged in. New posts will appear in the user’s profile.
+=======
+Create A Profile: Users will be able to create new description profiles when logged in. New posts will appear in the userâ€™s profile.
+
+>>>>>>> 24a37cef234b4daf130e68aadba6bd5f0d33b86e
 ### Technologies
 Include Technologies here
 
 C#, MySQL, Bootstrap, Visual Studio 2022, Trello, Moqups
+<<<<<<< HEAD
+=======
+
+>>>>>>> 24a37cef234b4daf130e68aadba6bd5f0d33b86e
 ### What I'll Have to Learn
 Include what you will need to learn here
 
 We'll learn how to use Trello, which is a project-management application, Bootstrap, for how to style our website, and a public API, for how to handle data from different sources.
+<<<<<<< HEAD
 ### Project Tracker
 Link to your Trello board here
 
 https://trello.com/b/Edy2Fj8n/cat-web-app
+=======
+
+### Project Tracker
+Link to your Trello board here
+
+https://trello.com/b/Edy2Fj8n/cat-web-app
+>>>>>>> 24a37cef234b4daf130e68aadba6bd5f0d33b86e
